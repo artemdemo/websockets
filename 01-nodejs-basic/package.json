@@ -1,0 +1,9 @@
+{
+  "name": "01-nodejs-basic",
+  "version": "0.0.1",
+  "description": "Basic example of using websockets with node.js",
+  "main": "index.html",
+  "dependencies": {
+    "ws": "^0.7.2"
+  }
+}
